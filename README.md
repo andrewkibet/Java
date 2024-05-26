@@ -1,6 +1,6 @@
 # Java Programming Language.
  Primitive Datatypes:
-    byte /n/n
+    byte \n\n
     short
     int
     long
