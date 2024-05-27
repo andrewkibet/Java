@@ -1,11 +1,11 @@
 # Java Programming Language.
  Primitive Datatypes:
     byte <br>
-    short
-    int
-    long
-    float
-    double.
+    short<br>
+    int<br>
+    long<br>
+    float<br>
+    double.<br>
 Non-PRimitive Datatypes:
     String
     Arrays
